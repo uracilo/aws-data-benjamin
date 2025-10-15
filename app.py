@@ -4,7 +4,7 @@ import json
 
 st.set_page_config(page_title="Dashboard Clientes", page_icon="📊", layout="wide")
 
-st.title("📊 Dashboard de Clientes — xideralaws-curso-project")
+st.title("📊 Dashboard de Clientes — xideralaws-curso-project CICD")
 
 # 1️⃣ Configuración de S3
 bucket = "xideralaws-curso-project"
